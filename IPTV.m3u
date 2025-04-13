@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,一家亲
-http://iptv.huuc.edu.cn/hls/temphd2.m3u8
-#EXTINF:-1 ,浙江卫视高清
-http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 ,湖南卫视高清
-http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 ,江苏卫视高清
-http://iptv.huuc.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 ,CCTV-5高清
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 ,东方卫视高清
-http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 ,安徽卫视高清
-http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 ,北京体育高清
-http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
-#EXTINF:-1 ,CCTV-8高清
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 ,CCTV-1高清
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 ,CCTV-2高清
