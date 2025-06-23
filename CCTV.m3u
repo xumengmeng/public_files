@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1HD
 https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
+#EXTINF:-1 ,CCTV-13HD
+https://stream1.freetv.fun/f486f8831650e2d681322a4d73cff71dc1a0abb73cd3ae85a47841c0973b9cdd.ctv
+#EXTINF:-1 ,CCTV-13HD2
+https://stream1.freetv.fun/f3f7cef4872afb120f2363cf02c4597c89572832e1798fc0094978743524b891.ctv
 #EXTINF:-1 ,CCTV-5HD
 https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
 #EXTINF:-1 ,CCTV-5HD2
