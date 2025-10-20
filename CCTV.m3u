@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1HD
-https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
-#EXTINF:-1 ,CCTV-13HD
-https://stream1.freetv.fun/f486f8831650e2d681322a4d73cff71dc1a0abb73cd3ae85a47841c0973b9cdd.ctv
-#EXTINF:-1 ,CCTV-13HD2
-https://stream1.freetv.fun/f3f7cef4872afb120f2363cf02c4597c89572832e1798fc0094978743524b891.ctv
 #EXTINF:-1 ,CCTV-5HD
-https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
-#EXTINF:-1 ,CCTV-5HD2
-https://stream1.freetv.fun/1c6955794f9276a1dc72be513bac06575ebd975bebae0a045a2726515281ea51.ctv
-#EXTINF:-1 ,CCTV-5+HD
-https://stream1.freetv.fun/c84fe03033621c4948e4e6e5c2aab9ea90c199b8d112937c2ebfa3ec13ff443e.ctv
-#EXTINF:-1 ,CCTV-5+HD2
-https://stream1.freetv.fun/518f11d132212440db2e1a3b39daf7109482323163bedd6be790ac894d3f83e3.ctv
-#EXTINF:-1 ,CCTV-16HD
-https://stream1.freetv.fun/b6cf82a4af6c58caa2cb90957aad86263303bb7473261c062103d0aea1797dba.ctv
+https://stream1.freetv.fun/8b89c935d7233ab629a78262c82d7186b1d64da59f19ccebfd92722ad3835e42.ctv
+#EXTINF:-2 ,CCTV-5 Plus
+https://stream1.freetv.fun/c9e140322294b18d0a123c7f1bf21b69e7065f479928c71541248153ec7f821f.ctv
