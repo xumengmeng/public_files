@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-5HD
-https://stream1.freetv.fun/8b89c935d7233ab629a78262c82d7186b1d64da59f19ccebfd92722ad3835e42.ctv
-#EXTINF:-2 ,CCTV-5 Plus
-https://stream1.freetv.fun/c9e140322294b18d0a123c7f1bf21b69e7065f479928c71541248153ec7f821f.ctv
+#EXTINF:-1 ,CCTV5
+http://59.39.89.130:60901/tsfile/live/0016_1.m3u8
+#EXTINF:-2 ,CCTV5
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-3 ,CCTV5+
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
+#EXTINF:-4 ,CCTV5
+http://112.30.73.119:9901/tsfile/live/1422_1.m3u8?key=txiptv&playlive=0&authid=0
